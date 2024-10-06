@@ -3,6 +3,8 @@
 In this project, we have used a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. This dataset is widely used for training various image processing systems. 
 
 ![CNN Architecture](https://miro.medium.com/v2/resize:fit:1400/1*4OUonEDfZwCfR4Y-G-h1fw.jpeg)
+#  türkçe olarak cnn modelini mnist ile güzel bir şekilde anlatmaya çalıştım umarım beğenirsini :) (kısaca)
+
 
 ## Overview
 - **Objective**: Build a CNN model to accurately classify handwritten digits in Turkish.
